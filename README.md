@@ -7,7 +7,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
+- [Data Sources](#data-sources) Data_Sources.md
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [How to Run](#how-to-run)
@@ -21,4 +21,5 @@ GPU-Benchmark-Analysis/
 ├── src/
 ├── visualizations/
 ├── reports/
+├── Data_Sources.md
 └── README.md
