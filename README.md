@@ -1,7 +1,7 @@
 # Steven Gerardini - Data Analyst Portfolio
 
 ## About
-This repository showcases various projects I've worked on highlighting my skills in data collection with Web Scraping, data wrangling, data exploration, statistical analysis, and data visualizations. Each project are done using a combination of Python, SQL, Excel, and PowerBi.
+This repository showcases various projects I've worked on, highlighting my skills in data collection(including web scraping), data wrangling, data exploration, statistical analysis, and data visualization. Each project is completed using a combination of Python, SQL, Excel, and PowerBi.
 
 
 ## Overview
