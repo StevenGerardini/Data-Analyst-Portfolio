@@ -11,6 +11,8 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
+  - Python
+      - [GPU Performance Analysis](GPU_Performance.md)
 - [Data Sources](Data_Sources.md) 
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
