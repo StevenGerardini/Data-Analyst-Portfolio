@@ -26,6 +26,8 @@ This repository showcases various projects I've worked on, highlighting my skill
 Using benchmark data collected from multiple sources, we explore how different GPUs perform in terms of **frame rate** and **1% lows** 
 at different resolutions (1080p, 1440p, and 4K), and different graphic settings including **Upscaling**, **Raytracing** and **Frame Generation**.
 
+**Code:** [Investigating the Impact of Hardware and Settings on Gaming Performance](https://nbviewer.org/github/StevenGerardini/Data-Analyst-Portfolio/blob/main/GPU%20Performance%20Analysis.ipynb)
+
 **Data Source**: The dataset used for this project was manually curated using an Excel spreadsheet, combining benchmark data from three reputable sources:       
 - **TechSpot**: Provides comprehensive GPU reviews and benchmark data across various games and settings. For detailed performance metrics, visit [TechSpot PC Gaming Benchmarks](https://www.techspot.com/features/gaming-benchmarks/).
   
