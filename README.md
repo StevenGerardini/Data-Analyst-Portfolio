@@ -21,5 +21,36 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 ## Portfolio Projects
 
-### GPU Performance Analysius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### GPU Performance Analysis
 This project
