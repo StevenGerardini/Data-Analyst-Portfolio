@@ -1,4 +1,8 @@
-# GPU-Benchmark-Analysis
+# Steven Gerardini - Data Analyst Portfolio
+
+## About
+This repository showcases various projects I've worked on highlighting my skills in data collection with Web Scraping, data wrangling, data exploration, statistical analysis, and data visualizations. Each project are done using a combination of Python, SQL, Excel, and PowerBi.
+
 
 ## Overview
 This project analyzes and compares the performance of over 20 different GPUs across several video games. 
