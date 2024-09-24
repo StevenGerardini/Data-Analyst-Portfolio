@@ -6,14 +6,14 @@ Using benchmark data collected from multiple sources, we explore how different G
 at different resolutions (1080p, 1440p, and 4K), and different graphic settings including **Upscaling**, **Raytracing** and **Frame Generation**.
 
 ## Table of Contents
-- [Project Structure](#project-structure)
+- [Portfolio Projects](#portfolio-projects)
 - [Data Sources](Data_Sources.md) 
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [How to Run](#how-to-run)
 - [Technologies Used](#technologies-used)
 
-## Project Structure
+## Portfolio Projects
 ```plaintext
 GPU-Benchmark-Analysis/
 ├── data/
