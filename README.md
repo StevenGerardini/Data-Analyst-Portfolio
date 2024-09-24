@@ -11,8 +11,10 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
+  
   - Python
       - [GPU Performance Analysis](#gpu-performance-analysis)
+      - [Steam Sales Analysis](#steam-sales-analysis)
 - [Data Sources](Data_Sources.md) 
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
@@ -22,35 +24,18 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ## Portfolio Projects
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Steam Sales Analysis
+Steam woah
 
 
 
 ### GPU Performance Analysis
 This project
+
+
+
+
+
+
+
+
