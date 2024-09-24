@@ -12,7 +12,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
   - Python
-      - [GPU Performance Analysis](GPU_Performance.md)
+      - [GPU Performance Analysis](#gpu-performance-analysis)
 - [Data Sources](Data_Sources.md) 
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
@@ -20,12 +20,6 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 - [Technologies Used](#technologies-used)
 
 ## Portfolio Projects
-```plaintext
-GPU-Benchmark-Analysis/
-├── data/
-├── notebooks/
-├── src/
-├── visualizations/
-├── reports/
-├── Data_Sources.md
-└── README.md
+
+### GPU Performance Analysius
+This project
