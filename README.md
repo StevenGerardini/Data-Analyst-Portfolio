@@ -26,7 +26,7 @@ This repository showcases various projects I've worked on, highlighting my skill
 Using benchmark data collected from multiple sources, we explore how different GPUs perform in terms of **frame rate** and **1% lows** 
 at different resolutions (1080p, 1440p, and 4K), and different graphic settings including **Upscaling**, **Raytracing** and **Frame Generation**.
 
-**Data Source**: The dataset used for this project was manually curated using an Excel spreadsheet, combining information from 3 credible sources  [Data Sources](Data_Sources.md)
+**Data Source**: The dataset used for this project was manually curated using an Excel spreadsheet, combining benchmark data from three reputable sources:       1. TechSpot: Provides comprehensive GPU reviews and benchmark data across various games and settings. For detailed performance metrics, visit  [Data Sources](Data_Sources.md)
 
 
 ### Steam Sales Analysis
