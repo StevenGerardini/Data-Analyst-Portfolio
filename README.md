@@ -37,7 +37,6 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
   
 - **PCPartPicker**: Used to gather pricing data for each GPU model, ensuring accurate cost-per-performance analysis. Visit [PCPartPicker](https://pcpartpicker.com/products/video-card/) for up-to-date pricing information on GPUs and other PC components.
 
-These sources were selected for their reliability and the breadth of data they provide, ensuring a robust analysis of GPU performance.
 
 
 ### Steam Sales Analysis
