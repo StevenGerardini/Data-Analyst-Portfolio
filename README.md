@@ -30,7 +30,11 @@ Steam woah
 
 
 ### GPU Performance Analysis
-This project
+
+##### Overview
+This project analyzes and compares the performance of over 20 different GPUs across several video games. 
+Using benchmark data collected from multiple sources, we explore how different GPUs perform in terms of **frame rate** and **1% lows** 
+at different resolutions (1080p, 1440p, and 4K), and different graphic settings including **Upscaling**, **Raytracing** and **Frame Generation**.
 
 
 
