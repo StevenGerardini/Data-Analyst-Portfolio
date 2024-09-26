@@ -10,11 +10,11 @@ This repository showcases various projects I've worked on, highlighting my skill
   - Python
       - [GPU Performance Analysis](#gpu-performance-analysis)
       - [Steam Sales Analysis](#steam-sales-analysis)
+   
+  - IBM Data Analyst Capstone Projects
+      - Web Scraping
 - [Data Sources](Data_Sources.md) 
-- [Methodology](#methodology)
-- [Key Findings](#key-findings)
-- [How to Run](#how-to-run)
-- [Technologies Used](#technologies-used)
+
 
 ## Portfolio Projects
 
