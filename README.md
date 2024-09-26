@@ -42,7 +42,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 
 ### Steam Sales Analysis
-Steam woah
+
 
 
 
