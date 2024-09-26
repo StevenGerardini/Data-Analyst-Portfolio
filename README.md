@@ -26,7 +26,7 @@ This repository showcases various projects I've worked on, highlighting my skill
 Using benchmark data collected from multiple sources, we explore how different GPUs perform in terms of **frame rate** and **1% lows** 
 at different resolutions (1080p, 1440p, and 4K), and different graphic settings including **Upscaling**, **Raytracing** and **Frame Generation**.
 
-**Excel:** [Spreadsheet](GPU%Benchmarks%2024%Games.xlsx)
+**Excel:** [Spreadsheet](https://github.com/StevenGerardini/Data-Analyst-Portfolio/blob/a72868a69e6843f4b45a62a90b8978a3c49f7b67/GPU%20Benchmarks%202024%20Games.xlsx)
 
 **Code:** [Investigating the Impact of Hardware and Settings on Gaming Performance](https://nbviewer.org/github/StevenGerardini/Data-Analyst-Portfolio/blob/main/GPU%20Performance%20Analysis.ipynb)
 
