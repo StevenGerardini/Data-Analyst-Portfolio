@@ -19,7 +19,9 @@ This repository showcases various projects I've worked on, highlighting my skill
 ## Portfolio Projects
 
 
-### GPU Performance Analysis
+
+### GPU Performance Analysis 
+<u> a </u>
 
 
 **Description:** This project analyzes and compares the performance of over 20 different GPUs across several video games.
@@ -40,7 +42,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 - **PCPartPicker**: Used to gather pricing data for each GPU model, ensuring accurate cost-per-performance analysis. Visit [PCPartPicker](https://pcpartpicker.com/products/video-card/) for up-to-date pricing information on GPUs and other PC components.
 
 
-
+---------------------------------------------
 ### Steam Sales Analysis
 
 
