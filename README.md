@@ -51,11 +51,9 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 ### Collecting Data Using APIs
 
-**Description:** In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
+**Description:** In order to keep pace with changing technologies and remain competitive, an organization regularly analyzes data to help identify future skill requirements. As a Data Analyst, I will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
-As a Data Analyst, you will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
-
-Your first task is to collect the top programming skills that are most in demand from various sources including:
+**Code**: [Collecting Jobs Data Using GitHub Jobs API]()
 
 
 
