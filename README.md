@@ -57,9 +57,9 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
 
 ---------------------------------------------
-## IBM Data Analyst Capstone Projects
+# IBM Data Analyst Capstone Projects
 
-### Collecting Data Using APIs and WebScraping
+## Collecting Data Using APIs and WebScraping
   - **Description:** In order to keep pace with changing technologies and remain competitive, an organization regularly analyzes data to help identify future skill requirements. As a Data Analyst, I will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. My first task was to collect the top programming skills that are most in demand from various sources including:
       - Job postings
       - Surveys
@@ -73,7 +73,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
     - [Data Wrangling](Data_Wrangling_IBM.ipynb)
 
 
-### Survey Dataset Exploration
+## Survey Dataset Exploration
 
   - **Description:** Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses. I will explore, analyze, and visualize this dataset and present my analysis.
 
