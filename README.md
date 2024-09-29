@@ -14,7 +14,7 @@ This repository showcases various projects I've worked on, highlighting my skill
   - IBM Data Analyst Capstone Projects
       - [Collecting Data Using APIs](#collecting-data-using-apis-and-webscraping)
       - [Survey Data Exploration](#survey-dataset-exploration)
-      - [Data Visualization and Dashboard](#Data_Visualization_and_Dashboard)
+      - [Data Visualization and Dashboard](#data_visualization_and_dashboard)
    
         
 - [Data Sources](Data_Sources.md) 
