@@ -12,8 +12,8 @@ This repository showcases various projects I've worked on, highlighting my skill
       - [Steam Sales Analysis](#steam-sales-analysis)
    
   - IBM Data Analyst Capstone Projects
-      - Collecting Data Using APIs
-      - 
+      - [Collecting Data Using APIs](#collecting-data-using-apis-webscraping)
+      - Survey Data Exploration
 - [Data Sources](Data_Sources.md) 
 
 
