@@ -85,6 +85,21 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
   - **Code:** [Data Visualization](Data_Visualization_IBM.ipynb)
   - **Dashboard:** [Dashboard](Kaggle_Survey_2023_Dashboard.pdf)
+      - A. Current Technology Usage Tab
+          - Top 10 Languages
+          - Top 10 Databases
+          - Platforms
+          - Top 10 Web Frameworks
+      - B. Future Technology Trends Tab
+          - Top 10 Lnaguages Desired for the Next Year
+          - Top 10 Databases Desired for the Next Year
+          - Desired Platforms for the Next Year
+          - Top 10 Web Frameworks Desired for the Next Year
+      - C. Demographics Tab
+          - Respondent Classified by Work Experience
+          - Respondent Count for Countries
+          - Respondent Count by Age
+          - Respondent Count by Gender and Classified by Education Level
 
 
 
