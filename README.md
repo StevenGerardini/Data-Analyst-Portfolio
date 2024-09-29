@@ -12,7 +12,7 @@ This repository showcases various projects I've worked on, highlighting my skill
       - [Steam Sales Analysis](#steam-sales-analysis)
    
   - IBM Data Analyst Capstone Projects
-      - [Collecting Data Using APIs](#collecting-data-using-apis-webscraping)
+      - [Collecting Data Using APIs](#collecting-data-using-apis-and-webscraping)
       - Survey Data Exploration
 - [Data Sources](Data_Sources.md) 
 
@@ -57,7 +57,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ---------------------------------------------
 ## IBM Data Analyst Capstone Projects
 
-### Collecting Data Using APIs/WebScraping
+### Collecting Data Using APIs and WebScraping
   - **Description:** In order to keep pace with changing technologies and remain competitive, an organization regularly analyzes data to help identify future skill requirements. As a Data Analyst, I will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. My first task was to collect the top programming skills that are most in demand from various sources including:
       - Job postings
       - Surveys
