@@ -13,7 +13,7 @@ This repository showcases various projects I've worked on, highlighting my skill
    
   - IBM Data Analyst Capstone Projects
       - [Collecting Data Using APIs](#collecting-data-using-apis-and-webscraping)
-      - [Survey Data Exploration](#survey-data-exploration)
+      - [Survey Data Exploration](#survey-dataset-exploration)
    
         
 - [Data Sources](Data_Sources.md) 
