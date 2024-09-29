@@ -83,7 +83,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ## Data Visualization
 
 
-  **Code:** [Data Visualization](Data_Visualization_IBM.ipynb)
+  - **Code:** [Data Visualization](Data_Visualization_IBM.ipynb)
 
 
 
