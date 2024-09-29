@@ -79,6 +79,13 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 
   - **Code**: [Exploratory_Data_Analysis_IBM](Exploratory_Data_Analysis_IBM.ipynb)
 
+    
+## Data Visualization
+
+
+  **Code:** [Data Visualization](Data_Visualization_IBM.ipynb)
+
+
 
 
 
