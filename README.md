@@ -68,7 +68,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
   - **Code**: 
     - [Collecting Jobs Data Using GitHub Jobs API](https://nbviewer.org/github/StevenGerardini/Data-Analyst-Portfolio/blob/main/Collecting%20Job%20Data%20Using%20APIs.ipynb)
     - [Web Scraping Surveys](Web_Scraping_IBM.ipynb)
-    - [Data Wrangling](Data%Wrangling%IBM.ipynb)
+    - [Data Wrangling](Data_Wrangling_IBM.ipynb)
 
 
 ### Survey Dataset Exploration
