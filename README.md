@@ -48,11 +48,12 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ---------------------------------------------
 ### Steam Sales Analysis
 
-**Description:** 
+**Description:** This project involves conducting an exploratory data analysis (EDA) of Steam store games. The goal is to gain insights into various aspects of the games, such as genre, pricing, user reviews, release dates, and popularity.
+The decision to explore the steam store sales peaked my curiosity in what factors drives revenue for the online platform.
 
 **Code:**
 
-**Data Sources:**
+**Data Sources:** The dataset used for this project was obtained from Kaggle. Gathered around May 2019, it contains most games on the store released prior to that date. [Steam Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games/data)
 
 
 
