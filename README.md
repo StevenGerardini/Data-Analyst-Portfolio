@@ -1,7 +1,7 @@
 # Steven Gerardini - Data Analyst Portfolio
 
 ## About
-This repository showcases various projects I've worked on, highlighting my skills in data collection(including web scraping), data wrangling, data exploration, statistical analysis, and data visualization. Each project is completed using a combination of Python, SQL, Excel, and PowerBi.
+This repository showcases various projects I've worked on, highlighting my skills in data collection (including web scraping), data wrangling, data exploration, statistical analysis, and data visualization. Each project is completed using a combination of Python, SQL, Excel, and PowerBi.
 
 
 ## Table of Contents
@@ -49,7 +49,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ### Steam Sales Analysis
 
 **Description:** This project involves conducting an exploratory data analysis (EDA) of Steam store games. The goal is to gain insights into various aspects of the games, such as genre, pricing, user reviews, release dates, and popularity.
-The decision to explore the steam store sales peaked my curiosity in what factors drives revenue for the online platform.
+The decision to explore the steam store sales peaked my curiosity in knowing what factors drives revenue for the online platform.
 
 **Code:**
 
