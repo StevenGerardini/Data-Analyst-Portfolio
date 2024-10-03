@@ -48,7 +48,7 @@ at different resolutions (1080p, 1440p, and 4K), and different graphic settings 
 ---------------------------------------------
 ### Steam Sales Analysis
 
-**Description:** This project involves conducting an exploratory data analysis (EDA) of Steam store games. The goal is to gain insights into various aspects of the games, such as genre, pricing, user reviews, release dates, and popularity.
+**Description:** This project involves conducting an exploratory data analysis (EDA) on the Steam store game sales. The goal is to gain insights into various aspects of the games, such as genre, pricing, user reviews, release dates, and popularity.
 The decision to explore the steam store sales peaked my curiosity in knowing what factors drives revenue for the online platform.
 
 **Code:**
