@@ -1,7 +1,7 @@
 # Steven Gerardini - Data Analyst Portfolio
 
 ## About
-This repository showcases various projects I've worked on, highlighting my skills in data collection (including web scraping), data wrangling, data exploration, statistical analysis, and data visualization. Each project is completed using a combination of Python, SQL, Excel, and PowerBi.
+I’m Steven Gerardini, a data analyst dedicated to transforming raw data into actionable insights. Proficient in Python, SQL, Excel, and Power BI, I specialize in data collection, processing, and visualization. My projects, including GPU performance analysis and game sales trends, showcase my ability to uncover patterns and drive data-driven decision-making. I'm passionate about using data to inform strategy and eager to contribute to impactful projects.
 
 
 ## Table of Contents
