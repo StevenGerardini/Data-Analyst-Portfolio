@@ -7,7 +7,7 @@ I’m Steven Gerardini, a data analyst dedicated to transforming raw data into a
 ## Table of Contents
 - [Portfolio Projects](#portfolio-projects)
   
-  - Python
+  - Jupyter Notebooks
       - [GPU Performance Analysis](#gpu-performance-analysis)
       - [Steam Sales Analysis](#steam-sales-analysis)
    
